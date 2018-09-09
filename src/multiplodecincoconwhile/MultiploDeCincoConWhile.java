@@ -19,9 +19,21 @@ public class MultiploDeCincoConWhile {
   public static void main(String[] args) {
     // TODO code application logic here
     
-    //Declaro una variable de tipo entero y la inicializo con un valor de 0
+    //Declaro una variable de tipo entero y la inicializo con un valor de -5 para que salga el número 0
     
-    int numero = 0;
+    int numero = -5;
+    
+    //Creo el bucle while
+    
+    while (numero < 100) {      
+      
+      numero = numero + 5;
+      
+      // Imprimo el numero por teclado
+      
+      System.out.println(numero);
+      
+    }
     
     
   }
