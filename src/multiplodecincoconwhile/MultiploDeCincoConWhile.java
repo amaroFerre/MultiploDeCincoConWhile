@@ -19,6 +19,10 @@ public class MultiploDeCincoConWhile {
   public static void main(String[] args) {
     // TODO code application logic here
     
+    //Declaro una variable de tipo entero y la inicializo con un valor de 0
+    
+    int numero = 0;
+    
     
   }
   
